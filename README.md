@@ -1,6 +1,7 @@
 ﻿# Game-Of-Life
 This is a recreation of Conway's Game of Life.
 The game of life is a representation on the predator-prey model.
+Made for my first year of Software Engineering Degree
 ## How to use this repo
 1. Download the zip file.
 2. Unzip file to your chosen location.
